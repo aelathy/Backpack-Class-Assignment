@@ -1,0 +1,15 @@
+F:\CS30\Backpack-Class\bin\Debug\net6.0\Backpack-Class.exe
+F:\CS30\Backpack-Class\bin\Debug\net6.0\Backpack-Class.deps.json
+F:\CS30\Backpack-Class\bin\Debug\net6.0\Backpack-Class.runtimeconfig.json
+F:\CS30\Backpack-Class\bin\Debug\net6.0\Backpack-Class.dll
+F:\CS30\Backpack-Class\bin\Debug\net6.0\Backpack-Class.pdb
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.csproj.AssemblyReference.cache
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.GeneratedMSBuildEditorConfig.editorconfig
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.AssemblyInfoInputs.cache
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.AssemblyInfo.cs
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.csproj.CoreCompileInputs.cache
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.dll
+F:\CS30\Backpack-Class\obj\Debug\net6.0\refint\Backpack-Class.dll
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.pdb
+F:\CS30\Backpack-Class\obj\Debug\net6.0\Backpack-Class.genruntimeconfig.cache
+F:\CS30\Backpack-Class\obj\Debug\net6.0\ref\Backpack-Class.dll
