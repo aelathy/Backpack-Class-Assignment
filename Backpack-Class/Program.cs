@@ -34,13 +34,13 @@ class Backpack
     public void openBag()
     {
         this.Open = true;
-        Console.WriteLine("Backpack Opened");
+        Console.WriteLine("Bag Opened");
     }
 
     public void closeBag()
     {
         this.Open = false;
-        Console.WriteLine("Backpack Closed");
+        Console.WriteLine("Bag Closed");
     }
 
     public string putIn(string item)
@@ -49,8 +49,13 @@ class Backpack
         {
             Item.Add(item);
             Console.WriteLine(item + " Added to Backpack");
+            return "Added";
         }
-        return "Backpack Closed";
+        else
+        {
+            Console.WriteLine($"Cannot put in {item} because backpack is closed.");
+            return "Not Added";
+        }
     }
 
     public string takeOut(string item)
@@ -59,7 +64,12 @@ class Backpack
         {
             Item.Remove(item);
             Console.WriteLine(item + " Removed from Backpack");
+            return "Removed";
         }
-        return "Backpack Closed";
+        else
+        {
+            Console.WriteLine($"Cannot remove {item} because backpack is closed.");
+            return "Not Removed";
+        }
     }
 }
