@@ -2,7 +2,6 @@
 #nullable disable
 Console.Clear();
 
-
 // Task 2
 Backpack bag1 = new Backpack("Blue", "Small");
 Backpack bag2 = new Backpack("Red", "Medium");
