@@ -49,13 +49,12 @@ class Backpack
         {
             Item.Add(item);
             Console.WriteLine(item + " Added to Backpack");
-            return "Added";
         }
         else
         {
             Console.WriteLine($"Cannot put in {item} because backpack is closed.");
-            return "Not Added";
         }
+        return null;
     }
 
     public string takeOut(string item)
@@ -64,12 +63,11 @@ class Backpack
         {
             Item.Remove(item);
             Console.WriteLine(item + " Removed from Backpack");
-            return "Removed";
         }
         else
         {
             Console.WriteLine($"Cannot remove {item} because backpack is closed.");
-            return "Not Removed";
         }
+        return null;
     }
 }
